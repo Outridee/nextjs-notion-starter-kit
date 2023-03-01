@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Ingrid',
-  domain: 'https://www.notion.so/Ingrid-789bded960574e97b54ccd2e0971a149',
+  domain: 'https://azure-opinion-11c.notion.site/Ingrid-789bded960574e97b54ccd2e0971a149',
   author: 'Ingrid',
 
   // open graph metadata (optional)
