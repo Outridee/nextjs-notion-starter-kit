@@ -10,14 +10,14 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Ingrid',
-  domain: 'https://azure-opinion-11c.notion.site/Ingrid-789bded960574e97b54ccd2e0971a149',
+  domain: 'https://www.notion.so/Ingrid-789bded960574e97b54ccd2e0971a149',
   author: 'Ingrid',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  Wechat: 'Ladyx2020',
+  wechat: 'Ladyx2020',
 
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
